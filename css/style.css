@@ -24,3 +24,13 @@ div.navlinks {
     margin-top: 1.75em;
     margin-right: 7.5em;
 }
+
+#banner {
+  padding-top: 60px;
+}
+
+#main-content {
+  overflow: auto;
+  padding-bottom: 60px;
+  padding-top: 60px;
+}
