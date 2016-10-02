@@ -34,3 +34,14 @@ div.navlinks {
   padding-bottom: 60px;
   padding-top: 60px;
 }
+
+#project {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+}
+
+#description {
+  padding: 15px;
+  text-align: center;
+}
