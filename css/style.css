@@ -26,9 +26,9 @@ div.navlinks {
 }
 
 div.center {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+  position: absolute;;
+  top: 0;
+  bottom: 0;
   display: block;
   margin: 0 auto;
   width: 854px;
