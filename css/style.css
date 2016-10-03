@@ -25,6 +25,12 @@ div.navlinks {
     margin-right: 7.5em;
 }
 
+div.centered {
+  display: block;
+  margin: 0 auto;
+}
+
+
 #banner {
   padding-top: 60px;
 }
